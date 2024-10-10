@@ -1,0 +1,1 @@
+# plugins-smtp-settings-for-gravity-forms
